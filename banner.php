@@ -2,18 +2,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Documento sin t&iacute;tulo</title>
-<style type="text/css">
-<!--
-.Estilo10 {color: #000000; }
--->
-</style>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
-<table width="200" border="0">
+<table width="900" height="91" border="0" align="center">
   <tr>
-    <td><img src="Imagen1.png" name="banner" width="1496" height="273" id="banner" /></td>
+    <td><img src="Imagen1.png" width="1496" height="273" /></td>
   </tr>
 </table>
 </body>
